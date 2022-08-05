@@ -1,11 +1,11 @@
-# Machine-Learnig-Algorithm-on--Breast-Cancer-Wisconsin-Original-Data-Set
+## Machine-Learnig-Algorithm-on--Breast-Cancer-Wisconsin-Original-Data-Set
  Applying Machine Learning Algorithm on Breast Cancer Wisconsin (Original) Data Set by UCI Machine Learning Repository
 
 
-Dataset link: https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+%28original%29
+#### Dataset link: https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+%28original%29
 
 
-Attribute Information:
+#### Attribute Information:
 
 1. Sample code number: id number
 2. Clump Thickness: 1 - 10
