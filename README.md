@@ -20,4 +20,4 @@
 11. Class: (2 for benign, 4 for malignant)
 
 
-Label: column "Class" where **2** for benign, **4** for malignant
+Label: column "Class" where **2** for **benign**, **4** for **malignant**
